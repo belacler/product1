@@ -793,6 +793,62 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-swLt5WddHf {
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-swLt5WddHf .number-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-swLt5WddHf .number {
+  color: #ffffff;
+}
+.cid-swLt5WddHf .period {
+  display: block;
+}
+.cid-swLt5WddHf .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-swLt5WddHf .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-swLt5WddHf .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-swLt5WddHf .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-swLt5WddHf .mbr-section-title {
+  color: #ffffff;
+}
+.cid-swLt5WddHf .mbr-text {
+  color: #ffffff;
+}
+.cid-swLt5WddHf .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-swLt5WddHf .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-swLt5WddHf .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-swLt5WddHf .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
 .cid-swKiUCRvkA {
   padding-top: 5rem;
   padding-bottom: 1rem;
@@ -1149,62 +1205,6 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
-}
-.cid-swLt5WddHf {
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-swLt5WddHf .number-wrap {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-swLt5WddHf .number {
-  color: #ffffff;
-}
-.cid-swLt5WddHf .period {
-  display: block;
-}
-.cid-swLt5WddHf .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-swLt5WddHf .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-swLt5WddHf .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-swLt5WddHf .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-swLt5WddHf .mbr-section-title {
-  color: #ffffff;
-}
-.cid-swLt5WddHf .mbr-text {
-  color: #ffffff;
-}
-.cid-swLt5WddHf .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-swLt5WddHf .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #ffffff;
-  border: 2px solid #ffffff;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-swLt5WddHf .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-swLt5WddHf .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #ffffff;
-  color: #000000;
 }
 .cid-swLu1kmZfl {
   padding-top: 2rem;
